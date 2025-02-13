@@ -3,4 +3,4 @@ onload = () => {
       document.body.classList.remove("not-loaded");
       clearTimeout(c);
     }, 2000);
-  };￼Enter
+  };
